@@ -1,2 +1,2 @@
 # CS_courses
-Computer Science Course of University of Victoria
+Computer Science Courses of University of Victoria
